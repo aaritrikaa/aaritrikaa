@@ -1,16 +1,36 @@
-## Hi there 👋
 
-<!--
-**aaritrikaa/aaritrikaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Aaritrika 👋
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE (AI & ML) Student
+💻 Currently learning Data Structures & Algorithms with Java
+🤖 Exploring Artificial Intelligence & Machine Learning
+🚀 Building projects and learning through hands-on experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Currently Learning
+
+* Java & Data Structures
+* Python and its libraries
+* Natural Language Processing
+* Machine Learning
+* Problem Solving
+
+## 📌 Projects & Experience
+
+* 🎫 Tata Helpdesk Management System
+* 💻 DSA practice with Java
+* 💼 Internship experience after 1st year
+
+## 🎯 Goals
+
+* Strengthen my DSA and problem-solving skills
+* Build real-world AI/ML projects
+* Participate in hackathons and technical communities
+* Prepare for software engineering and AI/ML internships
+
+## 📫 Connect With Me
+
+* LinkedIn: linkedin.com/in/aaritrika-chowdhury-bb5501385
+* GitHub: https://github.com/aaritrikaa
+
+
+
